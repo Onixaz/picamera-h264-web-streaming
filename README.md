@@ -7,32 +7,32 @@ Demo of h264 live streaming from Raspberry Pi using Python and Broadway.js.
 ### Demo usage
 
 
-* Clone this repository
+1. Clone this repository
 
 ```
 git clone https://github.com/Onixaz/picamera-h264-web-streaming.git
 cd picamera-h264-web-streaming
 ```
 
-* Create Python3 virtual environment
+2. Create Python3 virtual environment
 
 ```
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-* Install dependencies
+3. Install dependencies
 
 ```
 pip install picamera ws4py
 ```
 
-* Launch the server
+4. Launch the server
 
 ```
 python server.py
 ```
-* Navigate to http://your-raspberrypi-ip:8082 on your PC/smartphone and the stream should appear.
+5. Navigate to http://your-raspberrypi-ip:8082 on your PC/smartphone and the stream should appear.
 
 Tested with Chrome and Firefox on Windows 10 and Chrome for Android (Nokia 6.1).
 
