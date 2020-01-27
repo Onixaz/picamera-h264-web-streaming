@@ -2,7 +2,7 @@
 Demo of h264 live streaming from Raspberry Pi using Python and Broadway.js.
 
 
-[Broadway.js](https://github.com/mbebenita/Broadway) is an amazing JavaScript h264 decoder which can decode raw h264 produced by [PiCamera](https://github.com/waveform80/picamera). This allows 1280 x 720 real time (~ 100ms latency) streaming to a web browser even from Raspberry Pi Zero!
+[Broadway.js](https://github.com/mbebenita/Broadway) is an amazing JavaScript h264 decoder which can decode raw h264 produced by [PiCamera](https://github.com/waveform80/picamera). This allows 720p real time (~ 100ms latency) video streaming to a web browser even from Raspberry Pi Zero!
 
 ### Demo usage
 
