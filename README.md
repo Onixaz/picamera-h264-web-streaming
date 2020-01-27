@@ -1,6 +1,5 @@
-# Picamera h264 Web Streaming Demo
-Demo of h264 live streaming from Raspberry Pi using PiCamera and broadway.js
-
+# Picamera h264 Web Streaming
+Demo of h264 live streaming from Raspberry Pi using PiCamera and broadway.js.
 
 ## Usage
 
@@ -29,4 +28,12 @@ pip install picamera, ws4py
 ```
 python server.py
 ```
-5. Navigate to http://<your-raspberrypi-ip>:8082 and the stream should appear. 
+5. Navigate to http://your-raspberrypi-ip:8082 on your PC and the stream should appear. 
+
+## Credits
+
+https://github.com/waveform80/pistreaming
+https://github.com/mbebenita/Broadway
+
+
+
