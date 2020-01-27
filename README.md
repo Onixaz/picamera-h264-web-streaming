@@ -1,5 +1,5 @@
 # Picamera h264 Web Streaming
-Demo of h264 live streaming from Raspberry Pi using PiCamera and broadway.js.
+Demo of h264 live streaming from Raspberry Pi using Python and Broadway.js.
 
 ## Usage
 
