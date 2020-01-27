@@ -32,8 +32,8 @@ python server.py
 
 ## Credits
 
-https://github.com/waveform80/pistreaming
-https://github.com/mbebenita/Broadway
+* https://github.com/waveform80/pistreaming
+* https://github.com/mbebenita/Broadway
 
 
 
