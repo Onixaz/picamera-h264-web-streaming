@@ -24,7 +24,7 @@ source venv/bin/activate
 3. Install dependencies
 
 ```
-pip install picamera, ws4py
+pip install picamera ws4py
 ```
 
 4. Launch the server
