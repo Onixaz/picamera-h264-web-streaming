@@ -1,8 +1,8 @@
 # Picamera h264 Web Streaming
 Demo of h264 live streaming from Raspberry Pi using Python and Broadway.js.
 
+[Broadway.js](https://github.com/mbebenita/Broadway) is a JavaScript h264 decoder which can decode raw h264 produced by [PiCamera](https://github.com/waveform80/picamera). This allows 720p real time video streaming to a web browser even from Raspberry Pi Zero!
 
-[Broadway.js](https://github.com/mbebenita/Broadway) is an amazing JavaScript h264 decoder which can decode raw h264 produced by [PiCamera](https://github.com/waveform80/picamera). This allows 720p real time (~ 100ms latency) video streaming to a web browser even from Raspberry Pi Zero!
 
 ### Demo usage
 
@@ -34,7 +34,9 @@ python server.py
 ```
 * Navigate to http://your-raspberrypi-ip:8082 on your PC/smartphone and the stream should appear.
 
-Tested with Chrome and Firefox on Windows 10 and Chrome for Android (Nokia 6.1) 
+Tested with Chrome and Firefox on Windows 10 and Chrome for Android (Nokia 6.1).
+
+
 
 ### Based on
 
