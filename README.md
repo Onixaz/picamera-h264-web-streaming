@@ -14,7 +14,7 @@ git clone https://github.com/Onixaz/picamera-h264-web-streaming.git
 cd picamera-h264-web-streaming
 ```
 
-2. Create Python3 virtual enviroment (optional)
+2. Create Python3 virtual environment
 
 ```
 python3 -m venv venv
